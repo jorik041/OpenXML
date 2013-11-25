@@ -1,4 +1,4 @@
 OpenXML
 =======
 
-OpenXML, wirk with Excel templates
+OpenXML, work with Excel templates
